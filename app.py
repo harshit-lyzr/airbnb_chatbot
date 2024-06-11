@@ -51,7 +51,7 @@ When responding to guest questions, provide clear, helpful, and friendly answers
 def rag_implementation():
     with st.spinner("Generating Embeddings...."):
         qa = QABot.pdf_qa(
-            input_files=["/Users/harshitnariya/PycharmProjects/Lyzr/airbnb.pdf"],
+            input_files=["/Users/harshitnariya/PycharmProjects/Lyzr/airbnb_chatbot/airbnb.pdf"],
             system_prompt=prompt
 
         )
