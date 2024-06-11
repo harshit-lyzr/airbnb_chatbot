@@ -1,0 +1,4 @@
+lyzr
+streamlit
+openai
+python-dotenv
