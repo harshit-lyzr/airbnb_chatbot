@@ -1,4 +1,4 @@
-lyzr
+lyzr == 0.1.36
 streamlit
 openai
 python-dotenv
